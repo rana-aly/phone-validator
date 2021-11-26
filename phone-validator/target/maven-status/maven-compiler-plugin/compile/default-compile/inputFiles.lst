@@ -1,0 +1,16 @@
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/serviceImpl/PhoneNumberServiceImpl.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/controller/PhoneNumberController.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/repositories/CountryRepo.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/enums/State.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/dto/PhoneNumberDTO.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/dto/ListingPhoneNumberDTO.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/service/PhoneValidatorService.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/model/PhoneNumber.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/config/Configuration.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/util/ResponseHandler.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/repositories/PhoneNumberRepo.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/service/PhoneNumberService.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/serviceImpl/PhoneValidatorServiceImpl.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/sqlLiteDialect/SQLDialect.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/phonevalidator/model/Country.java
+/home/rana-aly/Videos/assig/tutorials/spring-cloud/spring-cloud-docker/phone-validator/src/main/java/com/StartServer.java
